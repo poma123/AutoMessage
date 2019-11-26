@@ -1,0 +1,11 @@
+name: AutoMessage
+version: ${project.version}
+main: me.poma123.automessage.Automessage
+author: poma123
+commands:
+  automessage:
+    usage: /<command>
+    aliases: [am, autom]
+permissions:
+  automessage.reload:
+    default: op

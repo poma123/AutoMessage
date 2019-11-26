@@ -1,0 +1,12 @@
+# Delay in seconds
+delay: 10
+
+#Prefix on the message
+prefix: '§a[§eAuto§7Message§a]'
+
+#List of messages
+messages:
+  - '&aThis is a test message from poma123!'
+  - '&bYou can customize this in the config!'
+  - '&eYou can configure multiple%newline%&elines within one message!'
+  - '&cThis server is awesome!'
